@@ -19,7 +19,7 @@ npm run dev      # start server (or: npm start)
 
 open: http://localhost:3000 → "Manga Vault API is running."
 
-Data Model (tiny)
+Data Model (3 categories)
 
 series: { _id, title, author, genres[], status }
 
